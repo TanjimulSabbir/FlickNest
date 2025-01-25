@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth"
+}
